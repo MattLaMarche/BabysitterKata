@@ -2,9 +2,9 @@
 ## Background
 This kata simulates a babysitter working and getting paid for one night. The rules are pretty straight forward.
 ## Feature
-*As a babysitter
-In order to get paid for 1 night of work
-I want to calculate my nightly charge*
+*As a babysitter*
+*In order to get paid for 1 night of work*
+*I want to calculate my nightly charge*
 ## Requirements
 ### The babysitter:
 - starts no earlier than 5:00PM
